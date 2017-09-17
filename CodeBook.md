@@ -11,6 +11,6 @@ The subject and activity labels are added as columns using `cbind()`.
 
 Only the `-mean()` and `-std()` variables are selected (this excludes the additional vectors described at the end of `features_info.txt`).
 
-Variable names are cleaned by removing the '-' and '()' characters and converting all characters to lowercase. Thus, `tBodyAcc-mean()-X` in the original data becomes `tbodyaccmeanx`.
+Variable names are cleaned by removing the `-` and `()` characters and converting all characters to lowercase. Thus, `tBodyAcc-mean()-X` in the original data becomes `tbodyaccmeanx`.
 
 The average of each variable for each subject and each activity is calculated using `aggregate`.
