@@ -20,3 +20,4 @@ The data for this project were obtained from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Refer to the README file in the dataset for detailed information.
+# CourseraGettingCleaning
